@@ -3804,7 +3804,7 @@ Amended(2) by Proposal 7866 (o, Aris, Quazie, G., Gaelan, 天火狐)
 
 ----------------------------------------------------------------------
 
-Rule 2467/4 (Power=1)
+Rule 2467/5 (Power=1)
 Agencies
 
       An Agency is a document empowering persons to act on behalf of another
@@ -3822,8 +3822,8 @@ Agencies
       amend an Agency's powers is INEFFECTIVE unless it explicitly specifies the
       new values of the properties being created or amended.
 
-      The Powers of an Agency must be stated as actions, although they may may
-      be conditional on date, time, game state, or other preconditions. If
+      The Powers of an Agency must be stated as actions, although they may be
+      conditional on date, time, game state, or other preconditions. If
       condition(s) are specified as necessary for a power to be used, it is
       limited; otherwise, it is unlimited. If it attempts to specify a power in
       a manner that is unclear, ambiguous, circular, inconsistent, paradoxical,
@@ -3846,6 +3846,7 @@ Amended(2) via Rule 2430 "Cleanup Time," 24 May 2017
 Amended(3) by proposal 7857 "Agency Leadership Consolidation Act"
   (Grok), 05 June 2017
 Amended(4) by proposal 7855 "Limited Agencies" (Quazie), 05 June 2017
+Amended(5) by proposal 7880 "Agency Typo Fix" (o), 25 September 2017
 
 ----------------------------------------------------------------------
 
