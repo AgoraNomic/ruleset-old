@@ -1461,7 +1461,7 @@ announcement by:</p>
 
 <p>a) spending 1 Action Point, OR</p>
 
-<p>b) spending 1/20th the Floating Value in shinies.</p>
+<p>b) spending the current <a href="#Rule2445">Pend</a> Cost in shinies</p>
 
             
           </div>
@@ -2291,8 +2291,7 @@ syn. Judicial Case), specifying a statement to be inquired into:</p>
 
 <p>a) by announcement, and spending 1 Action Point, OR</p>
 
-<p>b) by announcement, and spending 1/20th the Floating Value in
-  shinies, OR</p>
+<p>b) by announcement, and spending the current <a href="#Rule991">CFJ</a> Cost in shinies, OR</p>
 
 <p>c) <a href="#Rule478">by announcement</a> if e is not a player.</p>
 
@@ -3326,6 +3325,7 @@ Lockout.</li>
 <li>Whether Agora is on Global Lockout, and if so, when it ends.</li>
 <li>A list of all Organizations and their Income.</li>
 <li>Each player&#39;s Expenditure.</li>
+<li>The Floating Value, and all Floating Derived Values</li>
 </ol>
 
 <p>The Secretary&#39;s monthly <a href="#Rule2143">report</a> includes:</p>
@@ -3333,6 +3333,10 @@ Lockout.</li>
 <ol>
 <li>Each Organization&#39;s Charter.</li>
 </ol>
+
+<p>As part of the Secretary&#39;s weekly duties, e <a href="#Rule2152">CAN</a> and <a href="#Rule2152">SHALL</a> flip the
+Floating Value to the number of <a href="#Rule2483">Shinies</a> owned by Agora. E <a href="#Rule2152">SHOULD</a> do this
+while publishing eir weekly report.</p>
 
             
           </div>
@@ -3541,22 +3545,17 @@ of <a href="#Rule2483">shinies</a> to the player.</p>
 spending shinies:</p>
 
 <ul>
-<li>Being the author of an adopted proposal: 1/40th the current
-Floating Value.</li>
-<li>Being the pender of an adopted proposal: 1/40th the current
-Floating Value.</li>
-</ul></li>
-<li><p>Judging a CFJ, that was created via spending shinies, that e was
-assigned to: 1/20th the current Floating Value.</p></li>
-</ul>
-
-<p>*Publishing a duty-fulfilling report: 5 shinies. This reward can be
-   claimed a maximum of once per <a href="#Rule1006">office</a> per <a href="#Rule1023">week</a> for a weekly report, and
-   once per <a href="#Rule1006">office</a> per <a href="#Rule1023">month</a> for a monthly report.</p>
+<li>Being the author of an adopted proposal: the current Authorship
+Reward.</li>
+<li>Being the pender of an adopted proposal: the current <a href="#Rule2445">Pend</a> Reward.
 
 <ul>
-<li>Resolving an Agoran <a href="#Rule693">Decision</a> for the first time this week: 5
-shinies.</li>
+<li>Judging a CFJ, that was created via spending shinies, that e was
+assigned to: the current <a href="#Rule991">CFJ</a> Reward.</li>
+<li>Publishing a duty-fulfilling report: 5 shinies.</li>
+<li>Resolving an Agoran <a href="#Rule693">Decision</a> for the first time this week: 5 shinies.</li>
+</ul></li>
+</ul></li>
 </ul>
 
             
@@ -3567,8 +3566,6 @@ shinies.</li>
             
             <p>Stamps are an asset, identified by eir creator and tracked by the
 Secretary.</p>
-
-<p>The Stamp Value is always 1/5th the current Floating Value.</p>
 
 <p>Once per month, a <a href="#Rule869">player</a> MAY, by announcement, transfer to Agora the
 Stamp Value, in shinies, to create a Stamp.</p>
@@ -3586,8 +3583,20 @@ the game.</p>
           <div id="Rule2497" class="rule">
             <h4>Floating Value <span class="label label-default">2497</span>  <span class="label label-default">1</span></h4>
             
-            <p>Floating Value is a natural switch. When e publishes eir Weekly Report, the
-Secretary <a href="#Rule2152">SHALL</a> flip the Floating Value to Agora&#39;s <a href="#Rule2483">shiny</a> balance.</p>
+            <p>Floating Value is a natural singleton switch, tracked by the Secretary.
+Rules to the contrary notwithstanding, the Floating Value <a href="#Rule2162">switch</a> <a href="#Rule2152">CANNOT</a> be
+flipped to a value other than the number of <a href="#Rule2483">Shinies</a> owned by Agora.</p>
+
+<p>The following Floating Derived Values are defined:</p>
+
+<ul>
+<li><a href="#Rule2445">Pend</a> Cost: 1/20th of the Floating Value, rounded up.</li>
+<li><a href="#Rule991">CFJ</a> Cost: 1/20th of the Floating Value, rounded up.</li>
+<li>Authorship Reward: 1/40th of the Floating Value, rounded up.</li>
+<li><a href="#Rule2445">Pend</a> Reward: 1/40th of the Floating Value, rounded up.</li>
+<li><a href="#Rule991">CFJ</a> Reward: 1/20th of the Floating Value, rounded up.</li>
+<li>Stamp Value: 1/5th of the Floating Value, rounded up.</li>
+</ul>
 
             
           </div>

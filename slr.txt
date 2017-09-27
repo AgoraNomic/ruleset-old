@@ -887,7 +887,7 @@ Proposals
 
 ----------------------------------------------------------------------
 
-Rule 2445/8 (Power=1)
+Rule 2445/9 (Power=1)
 How to Pend a Proposal
 
       Imminence is a switch, tracked by the Promotor, possessed by
@@ -899,7 +899,7 @@ How to Pend a Proposal
 
         a) spending 1 Action Point, OR
 
-        b) spending 1/20th the Floating Value in shinies.
+        b) spending the current Pend Cost in shinies
 
 ----------------------------------------------------------------------
 
@@ -1642,7 +1642,7 @@ Bleach
 Calls for Judgement
 ----------------------------------------------------------------------
 
-Rule 991/17 (Power=2)
+Rule 991/20 (Power=2)
 Calls for Judgement
 
       Any person (the initiator) can initiate a Call for Judgement (CFJ,
@@ -1650,8 +1650,7 @@ Calls for Judgement
 
         a) by announcement, and spending 1 Action Point, OR
 
-        b) by announcement, and spending 1/20th the Floating Value in
-        shinies, OR
+        b) by announcement, and spending the current CFJ Cost in shinies, OR
 
         c) by announcement if e is not a player.
 
@@ -2555,7 +2554,7 @@ Organizational Restructuring
 
 ----------------------------------------------------------------------
 
-Rule 2456/2 (Power=1)
+Rule 2456/3 (Power=1)
 The Secretary
 
       The Secretary is an office. The Secretary's weekly report
@@ -2567,10 +2566,15 @@ The Secretary
       3. Whether Agora is on Global Lockout, and if so, when it ends.
       4. A list of all Organizations and their Income.
       5. Each player's Expenditure.
+      6. The Floating Value, and all Floating Derived Values
 
       The Secretary's monthly report includes:
 
       1. Each Organization's Charter.
+
+      As part of the Secretary's weekly duties, e CAN and SHALL flip the
+      Floating Value to the number of Shinies owned by Agora. E SHOULD do this
+      while publishing eir weekly report.
 
 ----------------------------------------------------------------------
 
@@ -2731,7 +2735,7 @@ You can't take it with you
 
 ----------------------------------------------------------------------
 
-Rule 2496/0 (Power=1)
+Rule 2496/2 (Power=1)
 Rewards
 
       A Reward is a specified amount of shinies associated with a Reward
@@ -2745,33 +2749,27 @@ Rewards
       Below is an exhaustive list of Reward Conditions and eir rewards:
 
         * The following two only apply to proposals that were pended via
-        spending shinies:
+          spending shinies:
 
-           - Being the author of an adopted proposal: 1/40th the current
-           Floating Value.
+           * Being the author of an adopted proposal: the current Authorship
+             Reward.
 
-           - Being the pender of an adopted proposal: 1/40th the current
-           Floating Value.
+           * Being the pender of an adopted proposal: the current Pend Reward.
 
-        * Judging a CFJ, that was created via spending shinies, that e was
-          assigned to: 1/20th the current Floating Value.
+       * Judging a CFJ, that was created via spending shinies, that e was
+         assigned to: the current CFJ Reward.
 
-        *Publishing a duty-fulfilling report: 5 shinies. This reward can be
-         claimed a maximum of once per office per week for a weekly report, and
-         once per office per month for a monthly report.
+       * Publishing a duty-fulfilling report: 5 shinies.
 
-        * Resolving an Agoran Decision for the first time this week: 5
-          shinies.
+       * Resolving an Agoran Decision for the first time this week: 5 shinies.
 
 ----------------------------------------------------------------------
 
-Rule 2498/0 (Power=1)
+Rule 2498/1 (Power=1)
 Economic Wins
 
       Stamps are an asset, identified by eir creator and tracked by the
       Secretary.
-
-      The Stamp Value is always 1/5th the current Floating Value.
 
       Once per month, a player MAY, by announcement, transfer to Agora the
       Stamp Value, in shinies, to create a Stamp.
@@ -2788,8 +2786,18 @@ Economic Wins
 Rule 2497/0 (Power=1)
 Floating Value
 
-      Floating Value is a natural switch. When e publishes eir Weekly Report, the
-      Secretary SHALL flip the Floating Value to Agora's shiny balance.
+      Floating Value is a natural singleton switch, tracked by the Secretary.
+      Rules to the contrary notwithstanding, the Floating Value switch CANNOT be
+      flipped to a value other than the number of Shinies owned by Agora.
+
+      The following Floating Derived Values are defined:
+
+      * Pend Cost: 1/20th of the Floating Value, rounded up.
+      * CFJ Cost: 1/20th of the Floating Value, rounded up.
+      * Authorship Reward: 1/40th of the Floating Value, rounded up.
+      * Pend Reward: 1/40th of the Floating Value, rounded up.
+      * CFJ Reward: 1/20th of the Floating Value, rounded up.
+      * Stamp Value: 1/5th of the Floating Value, rounded up.
 
 ----------------------------------------------------------------------
 
