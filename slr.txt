@@ -948,38 +948,35 @@ How to Pend a Proposal
 
 ----------------------------------------------------------------------
 
-Rule 1607/43 (Power=3)
+Rule 1607/44 (Power=3)
 Distribution
 
-      The Promotor is an office; its holder is responsible for
-      receiving and distributing proposals.
+      The Promotor is an office; its holder is responsible for receiving and
+      distributing proposals.
 
-      Determining whether to adopt a proposal is an Agoran decision.
-      For this decision, the vote collector is the Assessor, the
-      adoption index is initially the adoption index of the proposal,
-      or 1.0 if the proposal does not have one, and the text, author,
-      and coauthors of the proposal are essential parameters. 
-      Initiating such a decision is known as distribution, and removes
-      the proposal from the Proposal Pool.
+      Determining whether to adopt a proposal is an Agoran decision. For this
+      decision, the vote collector is the Assessor, the adoption index is
+      initially the adoption index of the proposal, or 1.0 if the proposal does
+      not have one, and the text, author, and coauthors of the proposal are
+      essential parameters. Initiating such a decision is known as distribution,
+      and removes the proposal from the Proposal Pool.
 
-      The Promotor CAN distribute a proposal which is in the Proposal
-      Pool at any time. The Promotor SHALL NOT distribute proposals
+      The Promotor CAN distribute a proposal which is in the Proposal Pool at
+      any time, by announcement. The Promotor SHALL NOT distribute proposals
       which are not pending.
 
-      In a given Agoran week, the Promotor SHALL, as part of eir
-      weekly duties, distribute all pending proposals.
+      In a given Agoran week, the Promotor SHALL, as part of eir weekly duties,
+      distribute all pending proposals.
 
-      Distributed proposals have ID numbers, to be assigned by the
-      Promotor.
+      Distributed proposals have ID numbers, to be assigned by the Promotor.
 
-      If there is a Proposal in the Pool that it would otherwise be
-      IMPOSSIBLE for any player to distribute, then any player CAN
-      distribute that Proposal Without 3 Objections.
+      If there is a Proposal in the Pool that it would otherwise be IMPOSSIBLE
+      for any player to distribute, then any player CAN distribute that Proposal
+      Without 3 Objections.
 
-      The Promotor's report includes a list of all proposals in the
-      Proposal Pool, along with their text and attributes.  This
-      portion of a public document purporting to be a Promotor's
-      report is self-ratifying.
+      The Promotor's report includes a list of all proposals in the Proposal
+      Pool, along with their text and attributes.This portion of a public
+      document purporting to be a Promotor's report is self-ratifying.
 
 ----------------------------------------------------------------------
 
@@ -2043,25 +2040,23 @@ Eras
 
 ----------------------------------------------------------------------
 
-Rule 103/23 (Power=2)
+Rule 103/24 (Power=2)
 The Speaker
 
-      The Speaker is an imposed office and the figurehead leader of
-      Agora.
+      The Speaker is an imposed office and the figurehead leader of Agora.
 
-      The player or players who have most recently won the game are
-      called Laureled. If at any time the office of Speaker is vacant,
-      or when one or more players win Agora, then the Prime Minister
-      CAN and SHALL, once and in a timely fashion, appoint a Laureled
-      player to the office of Speaker.
+      The player or players who have most recently won the game are called
+      Laureled. If at any time the office of Speaker is vacant, or when one or
+      more players win Agora, then the Prime Minister CAN and SHALL, once and in
+      a timely fashion, appoint a Laureled player to the office of Speaker by
+      announcement.
 
-      If the office of Speaker has been held continuously by the same
-      person for 90+ days, then any player CAN appoint another player
-      to the office with Support.
+      If the office of Speaker has been held continuously by the same person for
+      90+ days, then any player CAN appoint another player to the office with
+      Support.
 
-      For an election of the Prime Minister, the Speaker has voting
-      strength one greater than e would have if e did not hold the
-      office.
+      For an election of the Prime Minister, the Speaker has voting strength one
+      greater than e would have if e did not hold the office.
 
 ----------------------------------------------------------------------
 
@@ -2334,32 +2329,30 @@ Motion of No Confidence
 
 ----------------------------------------------------------------------
 
-Rule 2451/3 (Power=1.7)
+Rule 2451/4 (Power=1.7)
 Executive Orders
 
-      Once per week and except as otherwise forbidden by this
-      rule, the current Prime Minister CAN issue a Cabinet Order
-      and perform the action(s) authorized by that Order.
+      Once per week and except as otherwise forbidden by this rule, the current
+      Prime Minister CAN issue a Cabinet Order by announcement to perform the
+      action(s) authorized by that Order.
 
-      Each Cabinet Order is associated with an office. The current
-      Prime Minister CANNOT issue more than one Cabinet Order
-      associated with the same office more than once in the same
-      month, nor can e issue a Cabinet Order associated with a
-      vacant office.
+      Each Cabinet Order is associated with an office. The current Prime
+      Minister CANNOT issue more than one Cabinet Order associated with the same
+      office more than once in the same month, nor can e issue a Cabinet Order
+      associated with a vacant office.
 
       The available Cabinet Orders are:
 
-      - Certiorari (Arbitor): The Prime Minister assigns emself as
-        judge of a specified open case.
+      - Certiorari (Arbitor): The Prime Minister assigns emself as judge of a
+        specified open case.
 
-      - Dive (Referee): The Prime Minister issues a specified Card to
-        a specified player. The reason for the card MAY be any
-        grievance held by the Prime Minister, not necessarily a
-        violation of the rules, against the person to whom the Card is
-        issued.
+      - Dive (Referee): The Prime Minister issues a specified Card to a
+        specified player. The reason for the card MAY be any grievance held by
+        the Prime Minister, not necessarily a violation of the rules, against
+        the person to whom the Card is issued.
 
-      - Manifesto (Promotor): The Prime Minister distributes a
-        specified proposal in the Proposal Pool.
+      - Manifesto (Promotor): The Prime Minister distributes a specified
+        proposal in the Proposal Pool.
 
 ----------------------------------------------------------------------
 
@@ -2522,27 +2515,26 @@ Holidays
 
 ----------------------------------------------------------------------
 
-Rule 2495/0 (Power=1)
+Rule 2495/1 (Power=1)
 The Birthday Tournament
 
-      In a timely fashion after the start of June 1 of each year,
-      the Herald SHALL propose a set of Regulations governing a
-      Birthday Tournament for that year; the Herald CAN also
-      delegate the responsibility for creating or running the
-      tournament to another player, with that player's consent.
+      In a timely fashion after the start of June 1 of each year, the Herald
+      SHALL propose a set of Regulations governing a Birthday Tournament for
+      that year; the Herald CAN also delegate the responsibility for creating
+      or running the tournament to another player, with that player's consent,
+      by announcement.
 
-      The Birthday Tournament's regulations SHOULD be such that all
-      persons who choose to participate have a fair chance of winning
-      the tournament (according to its regulations), and a winner
-      SHOULD be expected within 2-3 weeks following the tournament's
-      initiation.
+      The Birthday Tournament's regulations SHOULD be such that all persons who
+      choose to participate have a fair chance of winning the tournament
+      (according to its regulations), and a winner SHOULD be expected within
+      2-3 weeks following the tournament's initiation.
 
       After adequate time for discussion of the Birthday Tournament's
       regulations, the Herald (or delegate) CAN initiate a sanctioned
-      tournament with a specified, finalized set of regulations,
-      Without 3 Objections. By doing so e promulgates those regulations as a
-      special temporary title of the ACORN. This title may thereafter be amended
-      only by the Herald or eir designee without objection, to correct minor typos.
+      tournament with a specified, finalized set of regulations, Without 3
+      Objections. By doing so e promulgates those regulations as a special
+      temporary title of the ACORN. This title may thereafter be amended only
+      by the Herald or eir designee without objection, to correct minor typos.
       The initiation SHOULD be timed to coincide with Agora's Birthday.
 
 ----------------------------------------------------------------------
