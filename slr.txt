@@ -2782,14 +2782,14 @@ Floating Value
 
 ----------------------------------------------------------------------
 
-Rule 2499/0 (Power=1)
+Rule 2499/1 (Power=1)
 Welcome Packages
 
       If a player has not received a Welcome Package since e most recently
-      registered, any player MAY cause em to receive one by announcement.
+      registered, any player CAN cause em to receive one by announcement.
 
-      When a player receives a Welcome Package, Agora transfers 50 shinies
-      to em.
+      When a player receives a Welcome Package, Agora transfers 50 shinies to
+      em.
 
 ----------------------------------------------------------------------
 
