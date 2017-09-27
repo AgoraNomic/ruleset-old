@@ -383,6 +383,28 @@ Rule Changes
 
 ----------------------------------------------------------------------
 
+Rule 2445/10 (Power=1)
+The Propose-O-Matic
+
+      The Fearmongor is an Office. Its holder is responsible for ensuring the
+      continuous change of the ruleset.
+
+      Each month, the Fearmongor SHALL do the following as part of eir duties:
+
+       1) Select two existing rules at random. For each of those rules, submit
+          an Official proposal with AI equal to that rules' power. One proposal
+          SHALL specify only to repeal its rule; the other SHALL specify only to
+          amend its rule.
+
+       2) Select a previous rule that was repealed over 1 year ago, and has not
+          been so selected in the past 6 months. Submit an Official proposal of
+          the appropriate AI to re-enact the rule at its previous power, using
+          any past version of the rule as a basis and making minimal
+          modifications to that text to allow the rule to function in the
+          current ruleset.
+
+----------------------------------------------------------------------
+
 ======================================================================
 Reusable Definitions
 ----------------------------------------------------------------------
@@ -842,6 +864,23 @@ The Regkeepor
 
 ----------------------------------------------------------------------
 
+Rule 2505/0 (Power=1.0)
+Random Choices
+
+      When a Rule specifies that a random choice be made, then the choice shall
+      be made using whatever probability distribution among the possible
+      outcomes the Rule specifies, defaulting to a uniform probability
+      distribution.
+
+      The choice CAN be made using any physical or computational process whose
+      probability distribution among the possible outcomes is reasonably close
+      to that required by the Rules, and for which the final choice is not
+      trivially predictable by the selecting person in advance.The selecting
+      person SHOULD make the selection method public, and SHOULD use a method
+      for which the final probability distribution can be readily confirmed.
+
+----------------------------------------------------------------------
+
 Rule 2500/0 (Power=1)
 Action Points
 
@@ -887,7 +926,7 @@ Proposals
 
 ----------------------------------------------------------------------
 
-Rule 2445/9 (Power=1)
+Rule 2445/10 (Power=1)
 How to Pend a Proposal
 
       Imminence is a switch, tracked by the Promotor, possessed by
@@ -900,6 +939,12 @@ How to Pend a Proposal
         a) spending 1 Action Point, OR
 
         b) spending the current Pend Cost in shinies
+
+      An Official Proposal is a proposal designated as such by the Rules;
+      generally official proposals that are created as part of an Officer's
+      duties. Rules to the contrary notwithstanding, an Official proposal is
+      always pending. Rules to the contrary notwithstanding, players CANNOT
+      claim rewards for the adoption of an Official proposal.
 
 ----------------------------------------------------------------------
 
@@ -1550,6 +1595,35 @@ No News Is Some News
       If the rules define a report as including a list, then while
       that list is empty, that report includes the fact that it is
       empty.
+
+----------------------------------------------------------------------
+
+Rule 2446/5 (Power=1)
+The Agoran Newspaper
+
+      The Reportor is an office.
+
+      The Reportor's weekly report includes:
+
+         1. A suitable name for a newspaper, at the Reportor's
+            discretion.
+
+         2. A description of events that have happened since the last
+            report that the Reportor believes significant or
+            interesting.
+
+         3. Any editorialization or other pieces of Agora-related
+            information the Reportor pleases, as long as it is neither
+            i) factually incorrect nor ii) disrespectful to any person
+            or Agora itself.
+
+      While meeting these requirements, the Reportor may format eir report however e
+      pleases. The Reportor's reports are still subject to the requirements of rule
+      2143
+
+      The Reportor SHALL include at least one piece of information relevant to Agora
+      in the last week and SHALL write with the goal of creating a more informed
+      population.
 
 ----------------------------------------------------------------------
 
@@ -2448,6 +2522,31 @@ Holidays
 
 ----------------------------------------------------------------------
 
+Rule 2495/0 (Power=1)
+The Birthday Tournament
+
+      In a timely fashion after the start of June 1 of each year,
+      the Herald SHALL propose a set of Regulations governing a
+      Birthday Tournament for that year; the Herald CAN also
+      delegate the responsibility for creating or running the
+      tournament to another player, with that player's consent.
+
+      The Birthday Tournament's regulations SHOULD be such that all
+      persons who choose to participate have a fair chance of winning
+      the tournament (according to its regulations), and a winner
+      SHOULD be expected within 2-3 weeks following the tournament's
+      initiation.
+
+      After adequate time for discussion of the Birthday Tournament's
+      regulations, the Herald (or delegate) CAN initiate a sanctioned
+      tournament with a specified, finalized set of regulations,
+      Without 3 Objections. By doing so e promulgates those regulations as a
+      special temporary title of the ACORN. This title may thereafter be amended
+      only by the Herald or eir designee without objection, to correct minor typos.
+      The initiation SHOULD be timed to coincide with Agora's Birthday.
+
+----------------------------------------------------------------------
+
 ======================================================================
 Organizations
 ----------------------------------------------------------------------
@@ -2858,35 +2957,6 @@ No Faking
 
 ----------------------------------------------------------------------
 
-Rule 2446/5 (Power=1)
-The Agoran Newspaper
-
-      The Reportor is an office.
-
-      The Reportor's weekly report includes:
-
-         1. A suitable name for a newspaper, at the Reportor's
-            discretion.
-
-         2. A description of events that have happened since the last
-            report that the Reportor believes significant or
-            interesting.
-
-         3. Any editorialization or other pieces of Agora-related
-            information the Reportor pleases, as long as it is neither
-            i) factually incorrect nor ii) disrespectful to any person
-            or Agora itself.
-
-      While meeting these requirements, the Reportor may format eir report however e
-      pleases. The Reportor's reports are still subject to the requirements of rule
-      2143
-
-      The Reportor SHALL include at least one piece of information relevant to Agora
-      in the last week and SHALL write with the goal of creating a more informed
-      population.
-
-----------------------------------------------------------------------
-
 Rule 104/0 (Power=3)
 First Speaker
 
@@ -2912,35 +2982,10 @@ Town Fountain
 
 ----------------------------------------------------------------------
 
-Rule 2495/0 (Power=1)
-The Birthday Tournament
-
-      In a timely fashion after the start of June 1 of each year,
-      the Herald SHALL propose a set of Regulations governing a
-      Birthday Tournament for that year; the Herald CAN also
-      delegate the responsibility for creating or running the
-      tournament to another player, with that player's consent.
-
-      The Birthday Tournament's regulations SHOULD be such that all
-      persons who choose to participate have a fair chance of winning
-      the tournament (according to its regulations), and a winner
-      SHOULD be expected within 2-3 weeks following the tournament's
-      initiation.
-
-      After adequate time for discussion of the Birthday Tournament's
-      regulations, the Herald (or delegate) CAN initiate a sanctioned
-      tournament with a specified, finalized set of regulations,
-      Without 3 Objections. By doing so e promulgates those regulations as a
-      special temporary title of the ACORN. This title may thereafter be amended
-      only by the Herald or eir designee without objection, to correct minor typos.
-      The initiation SHOULD be timed to coincide with Agora's Birthday.
-
-----------------------------------------------------------------------
-
 
 ======================================================================
 
-Highest Rule ID number ever assigned: Rule 2504
+Highest Rule ID number ever assigned: Rule 2505
 
 Last Ruleset Ratification:
 	Short Logical Ruleset of 2014-04-07
