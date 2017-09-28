@@ -6,14 +6,15 @@ history:
 - Amended(1) by Proposal 7871 "Minor fixes (sans typos)" (V.J Rada), 7
   September 2017
 - Amended(2) by Proposal 7876 "Float On" (o), 25 September 2017
+- Amended(3) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25 September 2017
 text: |
   A Reward is a specified amount of shinies associated with a Reward
-  Condition. For each time a player meets a Reward Condition, e MAY
-  claim the specified award exactly once within 24 hours of meeting the
-  Reward Condition.
+  Condition. For each time a player meets a Reward Condition, e CAN claim
+  the specified award, by announcement, exactly once within 24 hours of
+  meeting the Reward Condition.
 
-  When a player 'claims' a Reward, Agora transfers the specified number
-  of shinies to the player.
+  When a player 'claims' a Reward, Agora transfers the specified number of
+  shinies to the player.
 
   Below is an exhaustive list of Reward Conditions and eir rewards:
 
@@ -32,6 +33,6 @@ text: |
 
    * Resolving an Agoran Decision for the first time this week: 5 shinies.
 id: 2496
-rev: 2
+rev: 3
 power: 1
 annotations: []

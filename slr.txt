@@ -327,34 +327,30 @@ No Cretans Need Apply
 
 ----------------------------------------------------------------------
 
-Rule 105/13 (Power=3)
+Rule 105/14 (Power=3)
 Rule Changes
 
-      Where permitted by other rules, an instrument generally can,
-      as part of its effect,
+      Where permitted by other rules, an instrument generally can, as part of
+      its effect,
 
-      1. enact a rule.  The new rule has power equal to the minimum
-         of the power specified by the enacting instrument,
-         defaulting to one if the enacting instrument does not
-         specify or if it specifies a power less than 0.1, and the
-         maximum power permitted by other rules.  The enacting
-         instrument may specify a title for the new rule, which if
-         present shall prevail.  The ID number of the new rule cannot
-         be specified by the enacting instrument; any attempt to so
-         specify is null and void.
+      1. enact a rule.  The new rule has power equal to the minimum of the power
+         specified by the enacting instrument, defaulting to one if the enacting
+         instrument does not specify or if it specifies a power less than 0.1,
+         and the maximum power permitted by other rules. The enacting instrument
+         may specify a title for the new rule, which if present shall prevail.
+         The ID number of the new rule cannot be specified by the enacting
+         instrument; any attempt to so specify is null and void.
 
-      2. repeal a rule.  When a rule is repealed, it ceases to be a
-         rule, and the Rulekeepor need no longer maintain a record
-         of it.
+      2. repeal a rule.  When a rule is repealed, it ceases to be a rule, and
+         the Rulekeepor need no longer maintain a record of it.
 
-      3. reenact a rule.  A repealed rule identified by its most
-         recent rule number may be reenacted with the same ID number
-         and the next change identifier.  If no text is specified,
-         the rule is reenacted with the same text it had when it was
-         most recently repealed.  If the reenacting proposal provides
-         new text for the rule, the rule must have materially the
-         same purpose as did the repealed version; otherwise, the
-         attempt to reenact the rule is null and void.
+      3. reenact a rule. A repealed rule identified by its most recent rule
+         number MUST be reenacted with the same ID number and the next change
+         identifier. If no text is specified, the rule is reenacted with the
+         same text it had when it was most recently repealed. If the reenacting
+         proposal provides new text for the rule, the rule must have materially
+         the same purpose as did the repealed version; otherwise, the attempt to
+         reenact the rule is null and void.
 
       4. amend the text of a rule.
 
@@ -362,24 +358,22 @@ Rule Changes
 
       6. change the power of a rule.
 
-      A rule change is any effect that falls into the above classes.
-      Rule changes always occur sequentially, never simultaneously.
+      A rule change is any effect that falls into the above classes. Rule
+      changes always occur sequentially, never simultaneously.
 
-      Any ambiguity in the specification of a rule change causes that
-      change to be void and without effect.  An inconsequential
-      variation in the quotation of an existing rule does not
-      constitute ambiguity for the purposes of this rule, but any
-      other variation does.
+      Any ambiguity in the specification of a rule change causes that change to
+      be void and without effect.An inconsequential variation in the quotation
+      of an existing rule does not constitute ambiguity for the purposes of this
+      rule, but any other variation does.
 
-      A rule change is wholly prevented from taking effect unless its
-      full text was published, along with an unambiguous and clear
-      specification of the method to be used for changing the rule, at
-      least 4 days and no more than 60 days before it would otherwise
-      take effect.
+      A rule change is wholly prevented from taking effect unless its full text
+      was published, along with an unambiguous and clear specification of the
+      method to be used for changing the rule, at least 4 days and no more than
+      60 days before it would otherwise take effect.
 
-      This rule provides the only mechanism by which rules can be
-      created, modified, or destroyed, or by which an entity can
-      become a rule or cease to be a rule.
+      This rule provides the only mechanism by which rules can be created,
+      modified, or destroyed, or by which an entity can become a rule or cease
+      to be a rule.
 
 ----------------------------------------------------------------------
 
@@ -798,39 +792,40 @@ Assets
 
 ----------------------------------------------------------------------
 
-Rule 2493/0 (Power=3.1)
+Rule 2493/1 (Power=3.1)
 Regulations
 
       A Regulation is an instrument defined as such by this rule. A regulation
-      allows an officer (known as the Promulgator) to exercise rule defined powers.
-      A regulation is in effect continuously from the time of its creation to the
-      time of either its revocation or the repeal of the rule that allowed for its
-      creation. When recommending a regulation, its Promulgator must specify by
-      number the rule(s) upon which it is based (the parent rules), the list of
-      which becomes an integral part of the regulation. The list of rules can
-      generally be modified by the Promulgator according to the procedure for text
-      changes.
+      allows an officer (known as the Promulgator) to exercise rule defined
+      powers. A regulation is in effect continuously from the time of its
+      creation to the time of either its revocation or the repeal of the rule
+      that allowed for its creation. When recommending a regulation, its
+      Promulgator must specify by number the rule(s) upon which it is based (the
+      parent rules), the list of which becomes an integral part of the
+      regulation. The list of rules can generally be modified by the Promulgator
+      according to the procedure for text changes.
 
-      A regulation must be authorized by at least one rule in order for it to exist.
-      A regulation has effect on the game (only) insofar as the rule or rules that
-      authorized it permit it to have effect, and a regulation generally inherits
-      the power of its least powerful parent rule, unless its Promulgator defines
-      a lower power. If reasonably possible, a regulation should be
-      interpreted so as to defer to other rules. The procedure for resolving
-      conflict between regulations is the same as it is for rules.
+      A regulation must be authorized by at least one rule in order for it to
+      exist. A regulation has effect on the game (only) insofar as the rule or
+      rules that authorized it permit it to have effect, and a regulation
+      generally inherits the power of its least powerful parent rule, unless its
+      Promulgator defines a lower power. If reasonably possible, a regulation
+      should be interpreted so as to defer to other rules. The procedure for
+      resolving conflict between regulations is the same as it is for rules.
 
       Regulations are generally issued according to the following procedures,
-      and they can be repealed by the announcement of their Promulgator. Alternate
-      procedures may be used if provided for by all of the regulations's parent
-      rules. If one parent rule specifies procedures that are more stringent than
-      those that the other(s) specifies, those apply. Creating, modifying, revoking,
-      or allowing for a regulation is secured at power 1.
+      and they can be repealed by the announcement of their Promulgator.
+      Alternate procedures may be used if provided for by all of the
+      regulations's parent rules. If one parent rule specifies procedures that
+      are more stringent than those that the other(s) specifies, those apply.
+      Creating, modifying, revoking, or allowing for a regulation is secured at
+      power 1.
 
-      A regulation (or set of regulations), authorized by another rule, may
-      generally be enacted or modified by its promulgator without 2 objections,
-      or with Agoran consent. A notice pursuant to the previous sentence is
-      known as a "recommendation", and the regulation(s) are said to be
-      "recommended" to Agora.
+      A regulation (or set of regulations), authorized by another
+      rule, CAN generally be enacted or modified by its promulgator
+      without 2 objections, or with Agoran consent. A notice pursuant
+      to the previous sentence is known as a "recommendation", and
+      the regulation(s) are said to be "recommended" to Agora.
 
 ----------------------------------------------------------------------
 
@@ -1713,11 +1708,11 @@ Bleach
 Calls for Judgement
 ----------------------------------------------------------------------
 
-Rule 991/20 (Power=2)
+Rule 991/21 (Power=2)
 Calls for Judgement
 
-      Any person (the initiator) can initiate a Call for Judgement (CFJ,
-      syn. Judicial Case), specifying a statement to be inquired into:
+      Any person (the initiator) can initiate a Call for Judgement (CFJ, syn.
+      Judicial Case), specifying a statement to be inquired into:
 
         a) by announcement, and spending 1 Action Point, OR
 
@@ -1725,24 +1720,22 @@ Calls for Judgement
 
         c) by announcement if e is not a player.
 
-      When a person initiates a Call for Judgment, e may optionally bar one
-      person from the case.
+      When a person initiates a Call for Judgment, e CAN optionally bar one
+      person from the case by announcement.
 
-      At any time, each CFJ is either open (default), suspended, or
-      assigned exactly one judgement.
+      At any time, each CFJ is either open (default), suspended, or assigned
+      exactly one judgement.
 
-      The Arbitor is an office, responsible for the administration of
-      justice in a manner that is fair for emself, if not for the rest
-      of Agora.
+      The Arbitor is an office, responsible for the administration of justice in
+      a manner that is fair for emself, if not for the rest of Agora.
 
-      When a CFJ has no judge assigned, the Arbitor CAN assign any
-      player to be its judge by announcement, and SHALL do so within a
-      week.  The players eligible to be assigned as judge are all
-      players except the initiator and the person barred (if any).
-      The Arbitor SHALL assign judges over time such that all
-      interested players have reasonably equal opportunities to judge.
-      If a CFJ has no judge assigned, then any player eligible to
-      judge that CFJ CAN assign it to emself Without 3 Objections.
+      When a CFJ has no judge assigned, the Arbitor CAN assign any player to be
+      its judge by announcement, and SHALL do so within a week.The players
+      eligible to be assigned as judge are all players except the initiator and
+      the person barred (if any). The Arbitor SHALL assign judges over time such
+      that all interested players have reasonably equal opportunities to judge.
+      If a CFJ has no judge assigned, then any player eligible to judge that CFJ
+      CAN assign it to emself Without 3 Objections.
 
 ----------------------------------------------------------------------
 
@@ -1835,10 +1828,11 @@ Judicial Retraction and Excess
 
 ----------------------------------------------------------------------
 
-Rule 2492/0 (Power=1)
+Rule 2492/1 (Power=1)
 Recusal
 
-      A judge may recuse emself from a CFJ they are assigned to.
+      A judge CAN recuse emself from a CFJ they are assigned to by
+      announcement.
 
       When a judge recuses emself from a CFJ the following happens:
         1 - The CFJ becomes unassigned
@@ -2277,26 +2271,24 @@ Degrees
 
 ----------------------------------------------------------------------
 
-Rule 2231/5 (Power=3)
+Rule 2231/6 (Power=3)
 Order of the Hero of Agora Nomic
 
-      Heroic titles are Agora's premier patent titles of distinction,
-      and CAN be awarded to persons for meritorious service only by a
-      proposal of power 3 or greater, which SHOULD explain why those
-      persons are qualified.  Bearers of heroic titles (Heroes)
-      constitute the Order of the Hero of Agora Nomic.
+      Heroic titles are Agora's premier patent titles of distinction, and CAN be
+      awarded to persons for meritorious service only by a proposal of power 3
+      or greater, which SHOULD explain why those persons are qualified.Bearers
+      of heroic titles (Heroes) constitute the Order of the Hero of Agora Nomic.
 
       The Heroic titles in decreasing precedence are:
 
-      Grand Hero of Agora Nomic (GHAN) -- This title may be awarded to
-      any person obviously and directly responsible for the existence
-      of Agora and/or Nomic in general.  As this title is the highest
-      honour that Agora may bestow, a Bearer of this title OUGHT to be
-      treated right good forever.
+      Grand Hero of Agora Nomic (GHAN) -- This title may be awarded to any
+      person obviously and directly responsible for the existence of Agora
+      and/or Nomic in general.As this title is the highest honour that Agora may
+      bestow, a Bearer of this title OUGHT to be treated right good forever.
 
-      Hero of Agora Nomic (HAN) -- This title may be awarded to any
-      person for outstanding meritorious service to Agora above and
-      beyond the call of duty.
+      Hero of Agora Nomic (HAN) -- This title may be awarded to any person for
+      outstanding meritorious service to Agora above and beyond the call of
+      duty.
 
 ----------------------------------------------------------------------
 
@@ -2370,18 +2362,20 @@ Pledges
 
 ----------------------------------------------------------------------
 
-Rule 2467/5 (Power=1)
+Rule 2467/6 (Power=1)
 Agencies
 
       An Agency is a document empowering persons to act on behalf of another
-      player. A player MAY establish an Agency With 24 hours Notice, and thereby
+      player. A player CAN establish an Agency With 24 hours Notice, and thereby
       become its Director, by specifying the properties of the new Agency,
       provided e has not established any other Agency that day:
 
-        1. A title, which must be exactly three words, not counting
-           conjunctions, articles or prepositions.
-        2. A non-empty list of persons other than the Director (the Agents).
-        3. A description of a set of actions (the Powers).
+      1. A title, which must be exactly three words, not counting conjunctions,
+      articles or prepositions.
+
+      2. A non-empty list of persons other than the Director (the Agents).
+
+      3. A description of a set of actions (the Powers).
 
       An Agency's Director may amend its properties or revoke it with 24 hours
       Notice. For greater certainty, an announced intent to create an Agency or
@@ -2402,8 +2396,9 @@ Agencies
       acronym of an agency must be unique and any attempt to create or amend an
       Agency such that two Agencies would have the same acronym is INEFFECTIVE.
 
-      The Agents of an Agency may perform the Actions described in the Powers of
-      the Agency on behalf of the Agency's Director.
+      The Agents of an Agency CAN perform the Actions described in the Powers of
+      the Agency on behalf of the Agency's Director, in the same manner by which
+      the Agency's Director can perform those Actions.
 
 ----------------------------------------------------------------------
 
@@ -2482,19 +2477,18 @@ Happy Birthday
 
 ----------------------------------------------------------------------
 
-Rule 2464/1 (Power=1)
+Rule 2464/2 (Power=1)
 Tournaments
 
-      A Tournament is a sub-game of Agora specifically sanctioned
-      to be initiated as a tournament by the Rules.  If a winner of a
-      tournament is determined within 4 weeks of its initiation, that
-      person or persons win the game, otherwise the tournament
-      concludes with no winner. A Tournament is governed by a special temporary
-      title of the ACORN, created in accordance with its parent rule,
-      which have binding control over those who freely agree to play the tournament
-      and over the tournament itself. Once the tournament is concluded, these
-      regulations cease to have any effect, and may be repealed by any player by
-      announcement.
+      A Tournament is a sub-game of Agora specifically sanctioned to be
+      initiated as a tournament by the Rules. If a winner of a tournament is
+      determined within 4 weeks of its initiation, that person or persons win
+      the game, otherwise the tournament concludes with no winner. A Tournament
+      is governed by a special temporary title of the ACORN, created in
+      accordance with its parent rule, which have binding control over those who
+      freely agree to play the tournament and over the tournament itself. Once
+      the tournament is concluded, these regulations cease to have any effect,
+      and CAN be repealed by any player by announcement.
 
 ----------------------------------------------------------------------
 
@@ -2737,27 +2731,25 @@ The Surveyor
 
 ----------------------------------------------------------------------
 
-Rule 2491/3 (Power=2)
+Rule 2491/4 (Power=2)
 Estate Auctions
 
-      During an auction, any player may bid a number of Shinies on eir own
-      behalf by announcement, or on behalf of any Organization for which such a
-      bid is Appropriate by announcement, provided the bid is higher than any
+      At the start of each month, if Agora owns at least one Estate, the
+      Surveyor CAN, by announcement, and SHALL in a timely fashion, put one
+      Estate which is owned by Agora up for auction. Each auction ends seven
+      days after it begins.
+
+      During an auction, any player CAN bid a number of Shinies on eir own
+      behalf, by announcement, or on behalf of any Organization for which such a
+      bid is Appropriate, by announcement, provided the bid is higher than any
       previously-placed bid in the same auction.
 
       If, at the end of the auction, there is a single highest bid, then that
       player or Organization wins the auction. The player who placed the winning
-      bid CAN cause Agora to transfer the auctioned Estate to the winner by
-      announcement, by paying Agora the amount of the bid, or by causing the
-      winning Organization to pay Agora the amount of the bid. E SHALL do so in
-      a timely fashion.
-
-      If, at the end of the auction, there is a single highest bid, then that
-      player or Organization wins the auction. The player who placed the winning
-      bid CAN cause Agora to transfer the auctioned Estate to the winner by
-      announcement, by paying Agora the amount of the bid, or by causing the
-      winning Organization to pay Agora the amount of the bid. E SHALL do so in
-      a timely fashion.
+      bid CAN, and SHALL in a timely fashion, cause Agora to transfer the
+      auctioned Estate to the winner by announcement, by paying Agora the amount
+      of the bid, or by causing the winning Organization to pay Agora the amount
+      of the bid.
 
 ----------------------------------------------------------------------
 
@@ -2803,16 +2795,16 @@ Shiny Supply Level
 
 ----------------------------------------------------------------------
 
-Rule 2496/2 (Power=1)
+Rule 2496/3 (Power=1)
 Rewards
 
       A Reward is a specified amount of shinies associated with a Reward
-      Condition. For each time a player meets a Reward Condition, e MAY
-      claim the specified award exactly once within 24 hours of meeting the
-      Reward Condition.
+      Condition. For each time a player meets a Reward Condition, e CAN claim
+      the specified award, by announcement, exactly once within 24 hours of
+      meeting the Reward Condition.
 
-      When a player 'claims' a Reward, Agora transfers the specified number
-      of shinies to the player.
+      When a player 'claims' a Reward, Agora transfers the specified number of
+      shinies to the player.
 
       Below is an exhaustive list of Reward Conditions and eir rewards:
 
@@ -2886,29 +2878,27 @@ Welcome Packages
 Festivals
 ----------------------------------------------------------------------
 
-Rule 2480/0 (Power=2.1)
+Rule 2480/1 (Power=2.1)
 Festivals
 
       Festivity is a singleton switch, whose possible values are integers
       ranging from 0 inclusive to the number of defined types of Ribbon
-      exclusive, and defaulting to 0. While Agora's Festivity is 0,
-      Festivity is tracked in the Tailor's monthly report. Otherwise, it
-      is tracked in the Tailor's weekly report. Changes to Festivity are
-      secured.
+      exclusive, and defaulting to 0. While Agora's Festivity is 0, Festivity is
+      tracked in the Tailor's monthly report. Otherwise, it is tracked in the
+      Tailor's weekly report. Changes to Festivity are secured.
 
-      If Agora's Festivity has had the same nonzero value for 14 days or
-      more, any player may flip it to 0 by announcement.
+      If Agora's Festivity has had the same nonzero value for 14 days or more,
+      any player CAN flip it to 0 by announcement.
 
-      A player who owns at least N types of Ribbon may Start a Rank N
-      Festival, where N is an integer greater than Agora's Festivity,
-      with 4 Support from players who own at least N types of Ribbon.
-      Upon doing so, Agora's Festivity is flipped to N. Exception: A
-      player may not do so if Agora's Festivity has had a value greater
-      than or equal to N within the past 21 days.
+      A player who owns at least N types of Ribbon CAN Start a Rank N Festival,
+      where N is an integer greater than Agora's Festivity, with 4 Support from
+      players who own at least N types of Ribbon. Upon doing so, Agora's
+      Festivity is flipped to N. Exception: A player CANNOT do so if Agora's
+      Festivity has had a value greater than or equal to N within the past 21
+      days.
 
-      A person who owns a number of types of Ribbon equal to or greater
-      than Agora's Festivity is known as Festive. Other persons are not
-      Festive.
+      A person who owns a number of types of Ribbon equal to or greater than
+      Agora's Festivity is known as Festive. Other persons are not Festive.
 
 ----------------------------------------------------------------------
 
