@@ -2800,7 +2800,7 @@ Shiny Supply Level
 
 ----------------------------------------------------------------------
 
-Rule 2496/3 (Power=1)
+Rule 2496/4 (Power=1)
 Rewards
 
       A Reward is a specified amount of shinies associated with a Reward
@@ -2827,6 +2827,9 @@ Rewards
        * Publishing a duty-fulfilling report: 5 shinies.
 
        * Resolving an Agoran Decision for the first time this week: 5 shinies.
+
+       * Having a Thesis pass peer-review and be granted a Degree based on its
+         merit: 20 shinies
 
 ----------------------------------------------------------------------
 

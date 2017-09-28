@@ -4497,7 +4497,7 @@ Amended(1) by proposal 7856 "Shiny Releveling Event" (Quazie), 05 June
 
 ----------------------------------------------------------------------
 
-Rule 2496/3 (Power=1)
+Rule 2496/4 (Power=1)
 Rewards
 
       A Reward is a specified amount of shinies associated with a Reward
@@ -4525,6 +4525,9 @@ Rewards
 
        * Resolving an Agoran Decision for the first time this week: 5 shinies.
 
+       * Having a Thesis pass peer-review and be granted a Degree based on its
+         merit: 20 shinies
+
 History:
 Created by Proposal 7867 "Econonmics Overhaul v2" (nichdel, o, grok,
   Aris), 30 July 2017
@@ -4532,6 +4535,8 @@ Amended(1) by Proposal 7871 "Minor fixes (sans typos)" (V.J Rada), 7
   September 2017
 Amended(2) by Proposal 7876 "Float On" (o), 26 September 2017
 Amended(3) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
+  September 2017
+Amended(4) by Proposal 7897 "University Funding" (CuddleBeam), 26
   September 2017
 
 ----------------------------------------------------------------------
