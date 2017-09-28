@@ -45,7 +45,7 @@ Amended(15) by Proposal 7596 (omd), 14 September 2013
 Retitled and amended(16) by Proposal 7614 (G.), 13 January 2014
 Amended(17) by Proposal 7743 (G.), 12 May 2015
 Power changed by Proposal by Proposal 7889 "Agora Protection Act"
-  (Aris), 25 September 2017
+  (Aris), 26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ Amended(2) by Proposal 7075 (scshunt), 16 June 2011
 Amended(3) by Proposal 7088 (omd), 23 July 2011
 Amended(4) by Proposal 7628 (ais523), 7 April 2014
 Power changed and amended(5) by Proposal 7889 "Agora Protection Act"
-  (Aris), 25 September 2017
+  (Aris), 26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -613,7 +613,7 @@ Amended(10) by Proposal 7647 (omd), 3 June 2014
 Amended(11) by Proposal 7710 (G.), 3 November 2014
 Amended(12) by Proposal 7759 (G.), 19 July 2015
 Amended(13) via Rule 2430 "Cleanup Time," 24 May 2017
-Amended(14) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(14) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -642,7 +642,7 @@ History:
 Created by Proposal 6798 (coppro), 27 August 2010
 Amended(1) by Proposal 6861 (omd), 18 October 2010
 Repealed by Proposal 6961 (G.), 3 March 2011
-Re-enacted and amended(2) by Proposal 7883 "Fear v2.1" (G.), 25
+Re-enacted and amended(2) by Proposal 7883 "Fear v2.1" (G.), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -1262,7 +1262,7 @@ Regulations
 
 History:
 Created by Proposal 7865 (Aris, o, nichdel, ais523), 27 June 2017
-Amended(1) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(1) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -1413,8 +1413,8 @@ Amended(7) by Proposal 7854 "Close Recent Loopholes v2" (ais523), 05
   June 2017
 Amended(8) by Proposal 7867 "Economics Overhaul v2" (nichdel, o, grok,
   Aris), 30 July 2017
-Amended(9) by Proposal 7876 "Float On" (o), 25 September 2017
-Amended(10) by Proposal 7883 "Fear v2.1" (G.), 25 September 2017
+Amended(9) by Proposal 7876 "Float On" (o), 26 September 2017
+Amended(10) by Proposal 7883 "Fear v2.1" (G.), 26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -1497,7 +1497,7 @@ Amended(41) by Proposal 7629 (scshunt), 7 April 2014
 Amended(42) by Proposal 7728 (Tiger), 24 November 2014
 Amended(43) by Proposal 7832 (Alexis), 5 December 2016
 Amended(44) by Proposal 7885 "Restraining Bolt" (o, V.J Rada, Ørjan),
-  25 September 2017
+  26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -2918,8 +2918,8 @@ Amended(16) by Proposal 7777 (omd, G.), 14 August 2015
 Amended(17) by Proposal 7803 (G.), 31 July 2016
 Amended(19) by Proposal 7867 "Economics Overhaul v2" (nichdel, o,
   grok, Aris), 30 July 2017
-Amended(20) by Proposal 7876 "Float On" (o), 25 September 2017
-Amended(21) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(20) by Proposal 7876 "Float On" (o), 26 September 2017
+Amended(21) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -3158,7 +3158,7 @@ Recusal
 
 History:
 Created by Proposal 7859 (Quzie, grok), 27 June 2017
-Amended(1) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(1) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -3211,7 +3211,7 @@ Amended(4) by Proposal 7729 (Tiger), 24 November 2014
 Power changed to 2 and Amended(5) by Proposal 7831 (Alexis), 5
   December 2016
 Amended(6) by Proposal 7886 "Card Reform and Expansion v4" (Aris,
-  ais523, Ørjan), 25 September 2017
+  ais523, Ørjan), 26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -3260,7 +3260,7 @@ History:
 Created by Proposal 7831 (Alexis), 5 December 2016
 Amended(1) via Rule 2430 "Cleanup Time," 24 May 2017
 Amended(2) by Proposal 7886 "Card Reform and Expansion v4" (Aris,
-  ais523, Ørjan), 25 September 2017
+  ais523, Ørjan), 26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -3283,7 +3283,7 @@ Official Justice
 History:
 Created by Proposal 7831 (Alexis), 5 December 2016
 Amended(1) by Proposal 7886 "Card Reform and Expansion v4" (Aris,
-  ais523, Ørjan), 25 September 2017
+  ais523, Ørjan), 26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -3302,7 +3302,7 @@ Created by Proposal 7831 (Alexis), 5 December 2016
 Amended(1) by Proposal 7871 "Minor fixes (sans typos)" (V.J Rada), 7
   September 2017
 Amended(2) by Proposal 7886 "Card Reform and Expansion v4" (Aris,
-  ais523, Ørjan), 25 September 2017
+  ais523, Ørjan), 26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -3458,7 +3458,7 @@ Amended(21) by Proposal 7690 (aranea), 24 September 2014
 Amended(22) by Proposal 7739 (G.), 2 May 2015
 Amended(23) by Proposal 7824 (aranea, ais523), 7 November 2016
 Amended(24) by Proposal 7885 "Restrianing Bolt" (o, V.J Rada, Ørjan),
-  25 September 2017
+  26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -3812,7 +3812,7 @@ Power changed from 2 to 3 by Proposal 6626 (Murphy), 20 February 2010
 Amended(3) by Proposal 6626 (Murphy), 20 February 2010
 Amended(4) by Proposal 7621 (G.), 23 February 2014
 Amended(5) by Proposal 7647 (omd), 3 June 2014
-Amended(6) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(6) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -3884,7 +3884,7 @@ Amended(1) by Proposal 7829 (Alexis), 7 November 2016
 Amended(2) by Proposal 7831 (Alexis), 5 December 2016
 Amended(3) by Proposal 7860 (Quazie), 27 June 2017
 Amended(4) by Proposal 7885 "Restraining Bolt" (o, V.J Rada, Ørjan),
-  25 September 2017
+  26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -3954,8 +3954,8 @@ Amended(2) via Rule 2430 "Cleanup Time," 24 May 2017
 Amended(3) by proposal 7857 "Agency Leadership Consolidation Act"
   (Grok), 05 June 2017
 Amended(4) by proposal 7855 "Limited Agencies" (Quazie), 05 June 2017
-Amended(5) by proposal 7880 "Agency Typo Fix" (o), 25 September 2017
-Amended(6) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(5) by proposal 7880 "Agency Typo Fix" (o), 26 September 2017
+Amended(6) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -4085,7 +4085,7 @@ Tournaments
 History:
 Created by Proposal 7809 (G.), 11 September 2016
 Amended(1) by Proposal 7865 (Aris, o, nichdel, ais523), 27 June 2017
-Amended(2) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(2) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -4150,7 +4150,7 @@ The Birthday Tournament
 History:
 Created by Proposal 7865 (Aris, o, nichdel, ais523), 27 June 2017
 Amended(1) by Proposal 7885 "Restraining Bolt" (o, V.J Rada, Ørjan),
-  25 September 2017
+  26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -4276,7 +4276,7 @@ Amended(1) via Rule 2430 "Cleanup Time," 24 May 2017
 
 ----------------------------------------------------------------------
 
-Rule 2456/3 (Power=1)
+Rule 2456/4 (Power=1)
 The Secretary
 
       The Secretary is an office. The Secretary's weekly report
@@ -4294,15 +4294,22 @@ The Secretary
 
       1. Each Organization's Charter.
 
-      As part of the Secretary's weekly duties, e CAN and SHALL flip the
-      Floating Value to the number of Shinies owned by Agora. E SHOULD do this
-      while publishing eir weekly report.
+      The Secretary CAN flip the floating value once a week by announcement. As
+      part of eir weekly duties, e SHALL flip the Floating Value to the number
+      of Shinies owned by Agora; e SHALL NOT ever set it to a different value. E
+      SHOULD do this while publishing eir weekly report. If the Secretary
+      discovers that e last flipped the floating value to an incorrect value and
+      e would not otherwise be able to set it again yet, e CAN and SHALL set the
+      value to what it should have been set to in the first place by
+      announcement.
 
 History:
 Created by Proposal 7791 (ais523), 28 October 2015
 Amended(1) by Proposal 7793 (ais523, aranea, G.), 28 October 2015
 Amended(2) via Rule 2430 "Cleanup Time," 24 May 2017
-Amended(3) via Rule 7876 "Float On," 25 September 2017
+Amended(3) via Rule 7876 "Float On," 26 September 2017
+Amended(4) via Rule 7890 "Improved Buoyancy v2" (Aris, G.), 26
+  September 2017
 
 ----------------------------------------------------------------------
 
@@ -4428,7 +4435,7 @@ Amended(2) by Proposal 7868 "Minor economic fixes" (Murphy), 30 July
   2017
 Amended(3) by Proposal 7872 "Estate Auction Cleanup" (o), 7 September
   2017
-Amended(4) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(4) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -4523,8 +4530,8 @@ Created by Proposal 7867 "Econonmics Overhaul v2" (nichdel, o, grok,
   Aris), 30 July 2017
 Amended(1) by Proposal 7871 "Minor fixes (sans typos)" (V.J Rada), 7
   September 2017
-Amended(2) by Proposal 7876 "Float On" (o), 25 September 2017
-Amended(3) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(2) by Proposal 7876 "Float On" (o), 26 September 2017
+Amended(3) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -4550,18 +4557,16 @@ Economic Wins
 History:
 Created by Proposal 7867 "Econonmics Overhaul v2" (nichdel, o, grok,
   Aris), 30 July 2017
-Amended(1) by Proposal 7876 "Float On" (o), 25 September 2017
+Amended(1) by Proposal 7876 "Float On" (o), 26 September 2017
 Amended(2) by Proposal 7881 "Stamp CAN Patch" (o, V.J Rada, Aris,
-  ais523), 25 September 2017
+  ais523), 26 September 2017
 
 ----------------------------------------------------------------------
 
-Rule 2497/0 (Power=1)
+Rule 2497/2 (Power=1)
 Floating Value
 
       Floating Value is a natural singleton switch, tracked by the Secretary.
-      Rules to the contrary notwithstanding, the Floating Value switch CANNOT be
-      flipped to a value other than the number of Shinies owned by Agora.
 
       The following Floating Derived Values are defined:
 
@@ -4576,6 +4581,8 @@ History:
 Created by Proposal 7867 "Econonmics Overhaul v2" (nichdel, o, grok,
   Aris), 30 July 2017
 Amended(1) by Proposal 7876 "Float On" (o), 26 September 2017
+Amended(2) by Proposal 7890 "Improved Buoyancy v2" (Aris, G.), 26
+  September 2017
 
 ----------------------------------------------------------------------
 
@@ -4592,7 +4599,7 @@ History:
 Created by Proposal 7867 "Econonmics Overhaul v2" (nichdel, o, grok,
   Aris), 30 July 2017
 Amended(1) by Proposal 7882 "Welcome Package CAN Patch" (o, K,
-  ais523), 25 September 2017
+  ais523), 26 September 2017
 
 ----------------------------------------------------------------------
 
@@ -4624,7 +4631,7 @@ Festivals
 
 History:
 Created by Proposal 7833 (ais523), 5 December 2016
-Amended(1) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 25
+Amended(1) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
   September 2017
 
 ----------------------------------------------------------------------
