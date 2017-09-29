@@ -2773,12 +2773,13 @@ Estate Ballots
 Shinies
 ----------------------------------------------------------------------
 
-Rule 2483/3 (Power=2)
+Rule 2483/4 (Power=2)
 Economics
 
-      Shinies (sg. shiny) are an indestructible liquid currency, and the official
-      currency of Agora. They may be owned by Agora, any player, or any
-      organization. The Secretary is the recordkeepor for Shinies.
+      Shinies (sg. shiny) are an indestructible liquid currency, and the
+      official currency of Agora.Shiny ownership is restricted to Agora, any
+      player, any organization, or any entity explicitly defined by the Rules to
+      be an Agoran Institution. The Secretary is the recordkeepor for Shinies.
 
       The Secretary CAN cause Agora to pay any player or organization by
       announcement if doing so is specified by a rule.
@@ -2877,6 +2878,24 @@ Welcome Packages
 
       When a player receives a Welcome Package, Agora transfers 50 shinies to
       em.
+
+----------------------------------------------------------------------
+
+Rule 2508/0 (Power=2.0)
+Community Chest
+
+      The Community Chest is an Agoran Institution.  If a player
+      has not done so in the current quarter, e CAN, by announcement,
+      transfer all the Shinies owned by the Community Chest to
+      any specified player.
+
+      If a player uses shinies to pend a Proposal or initiate a CFJ,
+      e MAY additionally specify, as part of the specification of
+      the transaction, that the funds be used for Charity (syn:
+      "Donated").  If e does so, then an instant after the
+      transaction is completed, half the value of the transaction in
+      shinies (rounded up) is transferred from Agora to the Community
+      Chest.
 
 ----------------------------------------------------------------------
 
@@ -2980,7 +2999,7 @@ Town Fountain
 
 ======================================================================
 
-Highest Rule ID number ever assigned: Rule 2507
+Highest Rule ID number ever assigned: Rule 2508
 
 Last Ruleset Ratification:
 	Short Logical Ruleset of 2014-04-07
