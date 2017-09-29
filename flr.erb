@@ -3,14 +3,14 @@ require 'yaml'
 require 'ostruct'
 
 require_relative 'common'
-index = YAML.load_file('rules/index')
+index = YAML.load_file('data/index')
 rule_groups = index.map do |name, rule_names|
   OpenStruct.new(name: name, rules: rule_names.map do |rn|
-    OpenStruct.new(YAML.load_file("rules/#{rn}"))
+    OpenStruct.new(YAML.load_file("data/rules/#{rn}"))
   end)
 end
 
-meta = YAML.load_file('rules/meta')
+meta = YAML.load_file('data/meta')
 
 %>THE FULL LOGICAL RULESET
 

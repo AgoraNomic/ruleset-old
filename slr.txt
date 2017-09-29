@@ -1953,6 +1953,29 @@ Green Cards
 
 ----------------------------------------------------------------------
 
+Rule 2506/0 (Power=2.0)
+Blue Cards
+
+      A Blue Card is a type of Card that is appropriate for deliberate or negligent
+      infractions either where the the player responsible profited from violating
+      the rules or where e significantly harmed another person or the game
+      as a whole. The person issuing a Blue Card must, in the same message,
+      announce a penalty between 1 shiny and the greater of 25 shinies and the
+      amount the bad sport profited from the infraction, in order for the card to
+      be effective. E CAN additionally, in the same message, determine the
+      distribution of the money between Agora and the players(s) harmed, save
+      that e CANNOT distribute money to emself or such that it would be under
+      eir effective control. By default, all the money goes to Agora.
+
+      When a Blue Card is issued, as a penalty, within the next 7 days, any player
+      CAN once, with 2 Support, Levy a Fine upon the bad sport. After the Fine is
+      Levied upon the bad sport, e SHALL endeavor in good faith to pay the fine
+      to Agora or the correct player(s), in accordance with the distribution laid
+      out by the carder. Any player CAN also act on the bad sport's behalf to do so,
+      fulfilling eir obligation.
+
+----------------------------------------------------------------------
+
 Rule 2427/2 (Power=2)
 Yellow Cards
 
@@ -1999,6 +2022,25 @@ Pink Slips
       When a Pink Slip is issued, as a penalty, within the next 7
       days, any player CAN, with 2 Support, become the holder of one
       or more of those offices still held by the bad sport.
+
+----------------------------------------------------------------------
+
+Rule 2507/0 (Power=2.0)
+Black Cards
+
+      A Black Card is a card appropriate for a person who plays the game, not
+      currently a player, who either broke the rules while not a player or
+      broke them while a player and then deregistered in bad faith. A Black
+      Card CANNOT be issued to current players, and no more than 3 Black Cards
+      CAN be issued per week. Any attempt to issue a Black Card in violation
+      of these limitations is INEFFECTIVE.
+
+      When a Black Card is issued, as a penalty, within the next 7 days, any player
+      CAN once, with Agoran Consent, Slam the Door at the bad sport. After the Door
+      is Slammed at a person, e CANNOT register or take any game actions for 30
+      days, rules to the contrary notwithstanding. Any attempt to Slam the Door on
+      a player or a person whose most recent deregistration took place without
+      eir consent is INEFFECTIVE, rules to the contrary notwithstanding.
 
 ----------------------------------------------------------------------
 
@@ -2769,6 +2811,86 @@ Estate Ballots
 
 ----------------------------------------------------------------------
 
+Rule 2502/0 (Power=2.0)
+Agoraculture
+
+      Each Estate has a Farm switch, tracked by the Agronomist, with values
+      "farmed" and "unfarmed", defaulting to "unfarmed". Changes to Farm
+      switches are secured. An Estate whose Farm switch is "farmed" is a Farm,
+      and its owner is the Farmer of that Estate.
+
+      In the first week of an Agoran month, the owner of an unfarmed Estate MAY
+      flip its Farm switch to "farmed" by announcement, if e pays Agora a number
+      of shinies equal to the Farm Rate.
+
+      In the first week of an Agoran month, the owner of a Farm MAY till the
+      farm by announcement, if e pays Agora a number of shinies equal to the
+      Farm Rate. If the Farmer of an Estate does not till it within the first
+      week of an Agoran month, the Agronomist CAN flip its Farm switch to
+      "unfarmed" by announcement, and SHALL do so in a timely fashion.
+
+      When an Estate is transferred to Agora or to an Organization, its Farm
+      switch is set to "unfarmed" immediately afterwards
+
+----------------------------------------------------------------------
+
+Rule 2503/0 (Power=2.0)
+Comestibles
+
+      A Comestible is a type of liquid asset, which can be owned by players.
+      Creating Comestibles is secured. The recordkeepor of Comestibles is the
+      Agronomist.
+
+      The Farmer of an Estate may offer Comestibles by announcement, naming a
+      number of Comestibles offered and a price per Comestible in Shinies. A
+      player CANNOT offer more Comestibles in a month than 10 times the number
+      of Farms e owns. The Farmer is ENCOURAGED to name the kind of Comestibles
+      on offer after a plant, vegetable, grain, livestock, or other farm good.
+
+      A player other than the offering Farmer may accept a Comestibles offer by
+      announcement to create that number of Comestibles in eir possession, if e
+      pays the offering Farmer the price per Comestible named in the offer times
+      the number of Comestbiles offered. The Value of a Comestible created this
+      way is equal to the price per Comestible offered by the Farmer.
+
+      An offer expires at the end of the Agoran month in which it is made. Rules
+      to the contrary notwithstanding, an offer CANNOT be accepted if it has
+      expired.
+
+      During an Agoran Decision, a player can increase their voting strength on
+      that decision by destroying (syn. "eating", "consuming") Comestibles. Eir
+      voting strength is increased by one-tenth the total Value of the
+      Comestibles destroyed this way, rounded down, to a maximum of 5.
+
+      A Comestible is an Expired Comestible if it was created by accepting an
+      offer announced more than three Agoran months ago. An Expired Comestible
+      CANNOT be consumed to increase voting strength, and MAY be destroyed by
+      any player, by announcement. The Agronomist SHALL destroy all Expired
+      Comestibles at the start of each Agoran month.
+
+----------------------------------------------------------------------
+
+Rule 2501/0 (Power=1.0)
+Farm Rate
+
+      The Farm Rate is a natural singleton switch, tracked by the Agronomist.
+
+----------------------------------------------------------------------
+
+Rule 2504/0 (Power=2.0)
+The Agronomist
+
+      The Agronomist is an office.
+
+      The Agronomist's weekly report includes:
+
+      * A list of Farms and their owners.
+
+      * A list of Comestibles offers that have not been accepted and have
+        not expired.
+
+----------------------------------------------------------------------
+
 ======================================================================
 Shinies
 ----------------------------------------------------------------------
@@ -3002,6 +3124,6 @@ Town Fountain
 Highest Rule ID number ever assigned: Rule 2508
 
 Last Ruleset Ratification:
-	Short Logical Ruleset of 2017-09-26
+	Short Logical Ruleset of 2016-09-09
 
 END OF THE SHORT LOGICAL RULESET
