@@ -1984,7 +1984,7 @@ Yellow Cards
       infractions for which a Green Card has already been issued.
 
       When a Yellow Card is issued, the bad sport SHOULD publish a formal
-      apology of at least 200 words explaining eir error, shame, remorse, and
+      apology of at least 150 words explaining eir error, shame, remorse, and
       ardent desire for self-improvement. A player issuing a Yellow Card MAY,
       when doing so, additionally specify up to 10 words to be included in the
       apology. Until e publishes such an apology, as a penalty, the bad sport's
