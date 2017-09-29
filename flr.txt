@@ -4645,13 +4645,14 @@ Amended(1) by proposal 7856 "Shiny Releveling Event" (Quazie), 05 June
 
 ----------------------------------------------------------------------
 
-Rule 2496/4 (Power=1)
+Rule 2496/5 (Power=1)
 Rewards
 
       A Reward is a specified amount of shinies associated with a Reward
       Condition. For each time a player meets a Reward Condition, e CAN claim
       the specified award, by announcement, exactly once within 24 hours of
-      meeting the Reward Condition.
+      meeting the Reward Condition. When a player claims a reward, e SHALL list
+      the number of shinies e receives, or it is INEFFECTIVE.
 
       When a player 'claims' a Reward, Agora transfers the specified number of
       shinies to the player.
@@ -4681,10 +4682,12 @@ Created by Proposal 7867 "Econonmics Overhaul v2" (nichdel, o, grok,
   Aris), 30 July 2017
 Amended(1) by Proposal 7871 "Minor fixes (sans typos)" (V.J Rada), 7
   September 2017
-Amended(2) by Proposal 7876 "Float On" (o), 26 September 2017
-Amended(3) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
+Amended(2) by Proposal 7975 "Better Accounting" (nichdel), 07
   September 2017
-Amended(4) by Proposal 7897 "University Funding" (CuddleBeam), 26
+Amended(3) by Proposal 7876 "Float On" (o), 26 September 2017
+Amended(4) by Proposal 7888 "BILLY MAYS HERE" (o, V.J Rada), 26
+  September 2017
+Amended(5) by Proposal 7897 "University Funding" (CuddleBeam), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -4716,7 +4719,7 @@ Amended(2) by Proposal 7881 "Stamp CAN Patch" (o, V.J Rada, Aris,
 
 ----------------------------------------------------------------------
 
-Rule 2497/2 (Power=1)
+Rule 2497/3 (Power=1)
 Floating Value
 
       Floating Value is a natural singleton switch, tracked by the Secretary.
@@ -4733,8 +4736,10 @@ Floating Value
 History:
 Created by Proposal 7867 "Econonmics Overhaul v2" (nichdel, o, grok,
   Aris), 30 July 2017
-Amended(1) by Proposal 7876 "Float On" (o), 26 September 2017
-Amended(2) by Proposal 7890 "Improved Buoyancy v2" (Aris, G.), 26
+Amended(1) by Proposal 7875 "Better Accounting" (nichdel), 7 September
+  2017
+Amended(2) by Proposal 7876 "Float On" (o), 26 September 2017
+Amended(3) by Proposal 7890 "Improved Buoyancy v2" (Aris, G.), 26
   September 2017
 
 ----------------------------------------------------------------------
@@ -4858,7 +4863,7 @@ No Faking
 
 History:
 Created by Proposal 7822 (Alexis), 7 November 2016
-Amended(1) by Proposal 7892 (Aris), 25 September 2017
+Amended(1) by Proposal 7892 (Aris), 26 September 2017
 
 ----------------------------------------------------------------------
 

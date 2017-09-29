@@ -2923,13 +2923,14 @@ Shiny Supply Level
 
 ----------------------------------------------------------------------
 
-Rule 2496/4 (Power=1)
+Rule 2496/5 (Power=1)
 Rewards
 
       A Reward is a specified amount of shinies associated with a Reward
       Condition. For each time a player meets a Reward Condition, e CAN claim
       the specified award, by announcement, exactly once within 24 hours of
-      meeting the Reward Condition.
+      meeting the Reward Condition. When a player claims a reward, e SHALL list
+      the number of shinies e receives, or it is INEFFECTIVE.
 
       When a player 'claims' a Reward, Agora transfers the specified number of
       shinies to the player.
@@ -2976,7 +2977,7 @@ Economic Wins
 
 ----------------------------------------------------------------------
 
-Rule 2497/2 (Power=1)
+Rule 2497/3 (Power=1)
 Floating Value
 
       Floating Value is a natural singleton switch, tracked by the Secretary.
